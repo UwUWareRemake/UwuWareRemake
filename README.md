@@ -16,4 +16,4 @@ can make their script have tp without even scripting!
 This script will NEVER be paid for full functions,
 All you probably can pay for is tips.
 
-Discord server: discord.io/uwuware
+Discord server: https://discord.io/uwuware
